@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 36px;
+    font-color: #101;
+    min-height: 100vh;
+    color: #fff;
+    background-color: #010;
+    display: grid;
+    place-content: center;
+}
